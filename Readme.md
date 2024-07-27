@@ -1,4 +1,4 @@
-# Welcome to Himanshu Anand's Portfolio! 🚀 [See my Portfolio](https://portfoliobyanand.vercel.app/)
+# Welcome to Himanshu Anand's Portfolio! 🚀 [See my Portfolio](https://anandhimanshu.vercel.app/)
 
 Hey there! Welcome to my portfolio repository. Here you'll find a glimpse into my journey as a passionate coder and developer. 💻
 
@@ -26,4 +26,4 @@ My ultimate ambition is to continue honing my skills as a developer, contributin
 
 Feel free to reach out to me via [email](mailto:anshuhim001@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/himanshu-anand-3486ab2b2/). I'm always open to collaboration and new opportunities.
 
-Thank you for visiting my portfolio! Enjoy exploring. 😊 [Live Demo](https://portfoliobyanand.vercel.app/)
+Thank you for visiting my portfolio! Enjoy exploring. 😊 [Live Demo](https://anandhimanshu.vercel.app/)
