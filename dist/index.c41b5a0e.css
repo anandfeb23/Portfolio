@@ -1,0 +1,21 @@
+@keyframes float {
+  0% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  100% {
+    opacity: 0;
+    transform: translateY(-50vh);
+  }
+}
+
+.celebration-emoji {
+  pointer-events: none;
+  z-index: 1000;
+  font-size: 1.5rem;
+  transition: opacity .5s ease-in-out;
+  animation: linear forwards float;
+  position: fixed;
+}
+/*# sourceMappingURL=index.c41b5a0e.css.map */

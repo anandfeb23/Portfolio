@@ -6,10 +6,14 @@ import About from "./components/About";
 import Portfolio from "./components/Portfolio";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
+import BackgroundMusic from "./components/BgMusic";
+import CelebrationEffect from "./components/CelebrationEffect";
 
 function App() {
   return (
     <div>
+      <BackgroundMusic />
+      <CelebrationEffect />
       <NavBar />
       <Home />
       <About />

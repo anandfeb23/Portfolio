@@ -1,0 +1,19 @@
+@keyframes float {
+  0% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-50vh);
+    opacity: 0;
+  }
+}
+
+.celebration-emoji {
+  position: fixed;
+  font-size: 1.5rem;
+  animation: float linear forwards;
+  pointer-events: none;
+  transition: opacity 0.5s ease-in-out;
+  z-index: 1000;
+}
